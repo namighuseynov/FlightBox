@@ -4091,6 +4091,7 @@ MonoBehaviour:
   launchKey: 32
   isLaunching: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &9198016025379269424
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4146,5 +4147,7 @@ MonoBehaviour:
   currentLon: 0
   logRates: 0
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 55c142b (AutoPilot and PID controller)
 =======
 >>>>>>> parent of 55c142b (AutoPilot and PID controller)
